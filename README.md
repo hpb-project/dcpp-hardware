@@ -6,10 +6,10 @@
 
 
 #### --boe_top                           
-#### &emsp; | &emsp; --eth  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            ethernet packet 
-#### &emsp; | &emsp; --fap  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            function accelerate processer
-#### &emsp;&emsp;&emsp;&emsp;| &emsp; --proof &emsp;&emsp;&emsp;  proof module
-#### &emsp; | &emsp; --prbs  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; hardware prbs
-#### &emsp; | &emsp; --  top   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; top and global design
+#### &emsp; | &emsp; --eth  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;            ethernet packet 
+#### &emsp; | &emsp; --fap  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;            function accelerate processer
+#### &emsp;&emsp;&emsp;&emsp;| &emsp; --proof &nbsp; &emsp;&emsp;&emsp;  proof module
+#### &emsp; | &emsp; --prbs  &nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; hardware prbs
+#### &emsp; | &emsp; --&nbsp; top    &nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  top and global design
 
 #### For more information, please visit https://dcpp.io
